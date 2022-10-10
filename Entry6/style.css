@@ -1,0 +1,49 @@
+html{
+  font-family: 'Georgia';
+  font-size: 20px;
+}
+
+/* .mexican_tiles{
+background-image: url("/Entry6/mexican_tiles.jpg");
+  
+} */
+.header{
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: brown;
+  
+}
+.story{
+  text-emphasis-color: blue;
+}
+.recipe{
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: brown;
+}
+.haha {
+  background-image: image("/Entry6?mexican_tiles.jpg");
+  background-color: #cccccc;
+  height: vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#Ingredients{
+  margin-left: 400px;
+  /* right: 90%; */
+  
+}
+
+#Instructions{
+  margin-left: 400px;
+}
+
+#conchas{
+  margin-left: 1000px;
+}
+
+/* align-items: flex-start;
+position: absolute; */
