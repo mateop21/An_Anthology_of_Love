@@ -10,11 +10,17 @@ background-image: url("/Entry6/mexican_tiles.jpg");
 .header{
   font-size: xx-large;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  /* background-color: black; */
   color: brown;
   
 }
 .story{
-  text-emphasis-color: blue;
+  text-align: center;
+  position: relative;
+  background-color: rgb(2, 2, 52);
+  color:antiquewhite;
+  margin: 0 auto;
+  width: 1000px;
 }
 .recipe{
   font-size: xx-large;

@@ -1,7 +1,7 @@
 body{
   font-family: georgia;
   size: 20px;
-  
+  background-color: peachpuff;
 }
 
 .entries{
@@ -9,9 +9,9 @@ body{
 
 }
 
-#text{
-margin-left: 30%;
-border: 20px; color:brown;
+.text{
+left:30vw;
+
 
 
 } 
