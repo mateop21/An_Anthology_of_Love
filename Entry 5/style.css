@@ -2,25 +2,56 @@ body{
   font-family: georgia;
   size: 20px;
   background-color: peachpuff;
+  /* position:absolute; */
+}
+#boxes {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-.entries{
-  position: absolute;
-
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 
-.text{
-left:30vw;
+.left{
+  width: 50%;
+  align-self: center;
+}
+
+.right{
+align-self: center;
+}
+
+#sentence{
+  
+}
+
+/* div {
+  /* float: left; */
+  /* height: 470px;
+  width: 40%; */
+  /* padding: 0 10px; */
 
 
+
+/* #text{
+margin-left: 30%;  
+width: 40%;
+margin-top: 30%;
 
 } 
-#rec{
+
+#recording{
   /* align-self: center; */
-  margin-left: 43%;
+  /* margin-left: 80%;
 
-}
+} */
 
-#appreciation{
-  margin-left: 45%;
-}
+/* #sentence{
+  margin-left: 90%;
+  margin-top: 20%;
+} */ 
