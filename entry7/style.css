@@ -1,6 +1,7 @@
 html{
   font: georgia;
   font-size: medium;
+  color:beige;
   background-color: rgb(100, 96, 96);
   align-items: center;
 }
@@ -12,7 +13,7 @@ html{
 #group1 .preview {
   position: absolute;
   top: 40vh;
-  left: 30vw;
+  left: 35vw;
 
   /* background: rgb(181, 7, 7); */
   /* box-shadow: 0 0 9px 9px rgb(196, 6, 6); */
@@ -22,7 +23,7 @@ html{
   display: none;
 
   position: absolute;
-  top: 380px;
+  top: 700px;
   left: 50%;
   transform: translate(-50%, 0);
   background: rgba(161, 31, 31, 0.856);
@@ -35,8 +36,8 @@ html{
 
 #group2 .preview2 {
   position: absolute;
-  top: 120vh;
-  left: 30vw;
+  top: 140vh;
+  left: 35vw;
 
   /* background: rgb(181, 7, 7); */
   /* box-shadow: 0 0 9px 9px rgb(196, 6, 6); */
@@ -46,7 +47,7 @@ html{
   display: none;
 
   position: absolute;
-  top: 400px;
+  top: 820px;
   left: 50%;
   transform: translate(-50%, 0);
   background: rgba(41, 118, 218, 0.856);
@@ -59,8 +60,8 @@ html{
 
 #group3 .preview3 {
   position: absolute;
-  top: 210vh;
-  left: 30vw;
+  top: 260vh;
+  left: 35vw;
 
   /* background: rgb(181, 7, 7); */
   /* box-shadow: 0 0 9px 9px rgb(196, 6, 6); */
@@ -70,7 +71,7 @@ html{
   display: none;
 
   position: absolute;
-  top: 420px;
+  top: 820px;
   left: 50%;
   transform: translate(-50%, 0);
   background: rgba(235, 196, 39, 0.856);
