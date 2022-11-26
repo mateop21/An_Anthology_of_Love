@@ -1,0 +1,43 @@
+body {
+background-color: darkolivegreen;
+}
+
+.top-right {
+  z-index: 1;
+  position:absolute;
+  top: 10%;
+  left: 80%;
+  color: orange;
+}
+
+img {
+  z-index: 0;
+}
+
+.slideshow {
+  position: relative;
+  height:100vh;
+  }
+
+.container {
+  position: absolute;
+  z-index: 2;
+  left: 50%;
+  Top: 50%;
+  transform: translate(-50%, -50%)
+  /* position: relative;
+  background: gray;
+  margin: 0 auto;
+  width: 1000px; */
+}
+
+/* #sunset {
+  width: 100%;
+} */
+
+a {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
